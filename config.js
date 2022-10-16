@@ -48,8 +48,8 @@ global.ppulsa2 = '085850539404' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/Jarotoffc'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62857-23517757'
-global.nomorown = '15196086971'
+global.nomorbot = '65721 Hongkong'
+global.nomorown = '6285850539404'
 global.namebot = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥'
 global.nameown = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
 
@@ -60,10 +60,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA Jarot 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['15196086971', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['15196086971', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
   ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['15196086971', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
+  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
+  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
+  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
