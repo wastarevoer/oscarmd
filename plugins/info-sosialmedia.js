@@ -17,24 +17,24 @@ let jarot = `*▸  - —「 𝘚𝘰𝘴𝘪𝘢𝘭 𝘔𝘦𝘥𝘪𝘢 𝘉�
 「 𝘚𝘶𝘱𝘰𝘳𝘵𝘵 𝘉𝘰𝘵 𝘋𝘦𝘯𝘨𝘢𝘯 𝘊𝘢𝘳𝘢 」
 
 *❉ 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝘠𝘰𝘶𝘵𝘶𝘣𝘦 𝘉𝘰𝘵*
-⫹⫺ https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
+⫹⫺ https://youtube.com/channel/UC4isExrNSMRJI_kZEan4l2Q
 *❉ 𝘍𝘰𝘭𝘭𝘰𝘸 𝘐𝘯𝘴𝘵𝘢𝘴𝘨𝘳𝘢𝘮 𝘉𝘰𝘵*
-⫹⫺ https://Instagram.com/jarotr_
+⫹⫺ https://Instagram.com/ataarevoer
 
 「𝘎𝘳𝘰𝘶𝘱 𝘉𝘰𝘵 𝘰𝘧𝘧𝘤𝘪𝘢𝘭  && 𝘎𝘳𝘰𝘶𝘱 𝘋𝘪𝘴𝘤𝘶𝘴𝘴𝘪𝘰𝘯」
 
-𝘎𝘳𝘰𝘶𝘱 𝘙𝘪𝘴𝘮𝘢𝘣𝘰𝘵𝘻 𝘖𝘧𝘧𝘤
-⫹⫺ https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL
+𝘎𝘳𝘰𝘶𝘱 𝘋𝘪𝘴𝘤𝘶𝘴𝘴𝘪𝘰𝘯
+⫹⫺ https://chat.whatsapp.com/DsnFuhQDlC7CdGP25uguCN
 
 𝘎𝘳𝘰𝘶𝘱 𝘋𝘪𝘴𝘤𝘶𝘴𝘴𝘪𝘰𝘯
-⫹⫺ https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda
+⫹⫺ https://chat.whatsapp.com/DsnFuhQDlC7CdGP25uguCN
 
 `
 conn.sendButtonDoc(m.chat, jarot, wm,'Thanks','You', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/jarotr_",
+    mediaUrl: "https://Instagram.com/ataarevoer",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/jarotr_", 
-    title: 'oscar-MultiDevice',
+    description: "https://Instagram.com/ataarevoer", 
+    title: 'ataa-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig
